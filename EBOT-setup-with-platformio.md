@@ -21,9 +21,13 @@ Link hướng dẫn tải: https://www.aranacorp.com/en/install-platformio-ide-o
 
 - Cuối cùng ta kết nối với Ebot để có thể điều khiển
 
-Desktop
+Trên Desktop bạn chỉ cần chọn đúng SSID được config sẵn trong code được nạp vào Ebot và nhập mật khẩu như bình thường là được (Ví dụ SSID ở đây là ROBOT_AP)
 
-Mobile
+![image](https://github.com/user-attachments/assets/724e0ba7-c34a-4d7d-b7fe-24acb8ce2d68)
+
+Tương tự như trên Modbile cũng tương tự:
+
+![z6374930877265_5adcd2a9db23f511eac3f6841777cb7f](https://github.com/user-attachments/assets/ad8b9afb-67f9-4e2a-b6aa-30d89bf66a63)
 
 # <ins> LƯU Ý </ins>
 - Để có thể điều khiển được Ebot cần đảm bảo việc kết nối thông qua wifi một cách liền mạch điều này có thể sẽ hơi bất tiện cho việc sử dụng internet để tra cứu, tìm kiếm thông tin, ...

@@ -20,6 +20,10 @@ Link hướng dẫn tải: https://www.aranacorp.com/en/install-platformio-ide-o
 ![Screenshot from 2025-03-02 22-57-28](https://github.com/user-attachments/assets/8b94b7dd-57e3-4f2f-b321-b198ecc18db7)
 
 - Cuối cùng ta kết nối với Ebot để có thể điều khiển
+
 Desktop
 
 Mobile
+
+# <ins> LƯU Ý </ins>
+- Để có thể điều khiển được Ebot cần đảm bảo việc kết nối thông qua wifi một cách liền mạch điều này có thể sẽ hơi bất tiện cho việc sử dụng internet để tra cứu, tìm kiếm thông tin, ...

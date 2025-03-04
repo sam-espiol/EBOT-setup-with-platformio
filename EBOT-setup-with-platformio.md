@@ -18,3 +18,8 @@ Link hướng dẫn tải: https://www.aranacorp.com/en/install-platformio-ide-o
 ![Screenshot from 2025-03-02 23-01-00](https://github.com/user-attachments/assets/937433b1-944b-4f74-b568-9c0aac7ecad8)
 - Chọn biểu tượng như trong hình vẽ để có thể nạp được code
 ![Screenshot from 2025-03-02 22-57-28](https://github.com/user-attachments/assets/8b94b7dd-57e3-4f2f-b321-b198ecc18db7)
+
+- Cuối cùng ta kết nối với Ebot để có thể điều khiển
+Desktop
+
+Mobile
